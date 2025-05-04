@@ -1,4 +1,4 @@
-package dev.javajavations.cadastro_de_ninjas;
+package dev.javajavations.cadastro_de_ninjas.ninjas;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
